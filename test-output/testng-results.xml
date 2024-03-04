@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T17:09:23 MST" name="Suite" finished-at="2024-02-29T17:09:23 MST" duration-ms="0">
+    <groups>
+      <group name="Purchase">
+        <method signature="StandAloneTest.StandAlone(java.util.HashMap)[pri:0, instance:ATBAutomation.TestCases.StandAloneTest@16ecee1]" name="StandAlone" class="ATBAutomation.TestCases.StandAloneTest"/>
+      </group> <!-- Purchase -->
+    </groups>
+  </suite> <!-- Suite -->
+</testng-results>
